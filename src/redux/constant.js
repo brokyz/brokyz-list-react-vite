@@ -1,0 +1,5 @@
+export const ADD_TODO = 'add_toodo'
+export const REMOVE_TODO = 'remove_todo'
+export const GET_TODOS = 'get_todos'
+export const CHANGE_TICK = 'change_tick'
+export const UPDATE_ALL_TICK = 'update_all_tick'
