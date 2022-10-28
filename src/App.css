@@ -35,6 +35,7 @@ body {
 .todo-container {
   width: 600px;
   margin: 0 auto;
+  /* background-color: #da4f49; */
 }
 .todo-container .todo-wrap {
   padding: 10px;
